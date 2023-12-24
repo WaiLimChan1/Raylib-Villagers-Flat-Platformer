@@ -1,0 +1,15 @@
+//Info
+//---------------------------------------------------------------------------
+// Simple demonstration of MyCamera, Scrolling Background, AnimationPro, Character 
+//---------------------------------------------------------------------------
+
+//Instructions
+//---------------------------------------------------------------------------
+// 1) W,A,S,D TO MOVE CHARACTER 
+// 2) LEFT MOUSE BUTTON TO ATTACK
+// 3) RIGHT MOUSE BUTTON TO SWITCH CHARACTERS
+// 4) R TO REVIVE
+// 5) F TO SELECT ALL CHARACTERS
+// 6) L TO LOCK CAMERA ONTO CURRENT CHARACTER
+// 7) UP, DOWN, LEFT, RIGHT ARROW KEYS TO MOVE CAMERA
+//---------------------------------------------------------------------------
